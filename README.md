@@ -6,7 +6,7 @@ A Mages (Bootstrap 5, Alpine.js, Laravel and Livewire) Preset for Laravel
 This preset is intended to be installed into a fresh Laravel application. Follow [Laravel's installation instructions](https://laravel.com/docs/installation) to ensure you have a working environment before continuing.
 
 
-![Login View](./screenshot.png)
+![Login View](./Screenshot.png)
 
 
 ### Installation (without auth)
