@@ -1,6 +1,10 @@
 # Mages
 A Mages (Bootstrap 5, Alpine.js, Laravel and Livewire) Preset for Laravel
 
+
+[![Latest Stable Version](http://poser.pugx.org/olakunlevpn/mages/v)](https://packagist.org/packages/olakunlevpn/mages) [![Total Downloads](http://poser.pugx.org/olakunlevpn/mages/downloads)](https://packagist.org/packages/olakunlevpn/mages) [![Latest Unstable Version](http://poser.pugx.org/olakunlevpn/mages/v/unstable)](https://packagist.org/packages/olakunlevpn/mages) [![License](http://poser.pugx.org/olakunlevpn/mages/license)](https://packagist.org/packages/olakunlevpn/mages) [![PHP Version Require](http://poser.pugx.org/olakunlevpn/mages/require/php)](https://packagist.org/packages/olakunlevpn/mages)
+
+
 ## Installation
 
 This preset is intended to be installed into a fresh Laravel application. Follow [Laravel's installation instructions](https://laravel.com/docs/installation) to ensure you have a working environment before continuing.
