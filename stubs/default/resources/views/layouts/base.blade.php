@@ -24,7 +24,7 @@
         <!-- CSRF Token -->
         <meta name="csrf-token" content="{{ csrf_token() }}">
          <!-- Volt CSS -->
-        <link type="text/css" href="{{ asset('css/styles.css') }}" rel="stylesheet">
+        
     </head>
 
     <body>
