@@ -1,7 +1,6 @@
 @extends('layouts.base')
-@include('layouts.navigation-menu')
 @section('body')
-
+@include('layouts.navigation-menu')
 
 <div class="container-fluid">
     <div class="row">
